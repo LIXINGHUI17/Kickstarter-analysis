@@ -1,5 +1,6 @@
 # Kickstarter Campaigns
 # Kickstarting with Excel
+[Kickstarter_Challenge](Kickstarter_Challenge.xlxs)
 
 ## Overview of Project
 
@@ -14,14 +15,14 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-    
+![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
     Through line chart based on the "theater", the lines of success and failure are basically a contour, 
     which means when there are more successful projects, there will be more failed projects. Similarly, 
     when there are few successful projects, there will be fewer failed projects. However, in the summer time, 
     it shows more successful projects.
 
 ### Analysis of Outcomes Based on Goals
-    
+![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
     The two lines show a symmetrical trend because this is a percentage-based analysis, since canceled 
     project is 0.
 
