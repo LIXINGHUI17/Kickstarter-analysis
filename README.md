@@ -1,6 +1,6 @@
 # Kickstarter Campaigns
 # Kickstarting with Excel
-[Kickstarter_Challenge](Kickstarter_Challenge.xlxs)
+[Kickstarter_Challenge](Kickstarter_Challenge.xlsx)
 
 ## Overview of Project
 
