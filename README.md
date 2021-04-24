@@ -14,7 +14,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-    ![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
+    
     Through line chart based on the "theater", the lines of success and failure are basically a contour, 
     which means when there are more successful projects, there will be more failed projects. Similarly, 
     when there are few successful projects, there will be fewer failed projects. However, in the summer time, 
