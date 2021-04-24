@@ -2,24 +2,34 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-    To deeply explore and do the visualization for different campaigns fared in relation to their launch dates and their funding goals
+
+    To deeply explore and do the visualization for different campaigns fared in relation to their launch 
+    dates and their funding goals
 
 ### Purpose
-    This chanllenge will give the analyst simply processes about whether launch date would influnece outcomes for "theater", and the whether goals would influnce the outcomes.
+
+    This chanllenge will give the analyst simply processes about whether launch date would influnece 
+    outcomes for "theater", and the whether goals would influnce the outcomes.
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
 
-    Through line chart based on the "theater", the lines of success and failure are basically a contour, which means when there are more successful projects, there will be more failed projects. Similarly, when there are few successful projects, there will be fewer failed projects. However, in the summer time, it shows more successful projects.
+    Through line chart based on the "theater", the lines of success and failure are basically a contour, 
+    which means when there are more successful projects, there will be more failed projects. Similarly, 
+    when there are few successful projects, there will be fewer failed projects. However, in the summer time, 
+    it shows more successful projects.
 
 ### Analysis of Outcomes Based on Goals
     
-    The two lines show a symmetrical trend because this is a percentage-based analysis, since canceled project is 0.
+    The two lines show a symmetrical trend because this is a percentage-based analysis, since canceled 
+    project is 0.
 
 ### Challenges and Difficulties Encountered
     
-    In this simply project, I did not find any challenges and difficulties. The only thing I would like to mentioned is that when I did the countifs, I found it was time-consuming. I do not know whether there is a simply way to do it or not.
+    In this simply project, I did not find any challenges and difficulties. The only thing I would like to 
+    mentioned is that when I did the countifs, I found it was time-consuming. I do not know whether there 
+    is a simply way to do it or not.
 
 ## Results
 
