@@ -17,7 +17,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](/Resources/Theater_Outcomes_vs_Launch.png)
 
     Through line chart based on the "theater", the lines of success and failure are basically 
     a contour, which means when there are more successful projects, there will be more failed 
@@ -26,7 +26,7 @@
     failed projects, it looks like hovering around average level.
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](/Resources/Outcomes_vs_Goals.png)
 
     The two lines show a symmetrical trend because this is a percentage-based analysis, 
     since canceled project is 0.
